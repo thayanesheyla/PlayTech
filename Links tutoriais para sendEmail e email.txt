@@ -1,0 +1,5 @@
+Segue os links com os tutoriais seguidos na criaçao dos arquivos:
+
+sendEmail.php --> https://www.youtube.com/watch?v=hl6ebKO_EKs
+
+email.php --> https://www.youtube.com/watch?v=Af0X_pEt7AY
